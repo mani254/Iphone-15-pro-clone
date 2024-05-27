@@ -6,7 +6,7 @@
 ## Screenshots
 
 <div align="center">
-  <img src="outputs/screenshot1.png" alt="Screenshot 1" width="250"/>
+  <img src="outputs/screenshot1.jpg" alt="Screenshot 1" width="250"/>
   <img src="outputs/screenshot2.png" alt="Screenshot 2" width="250"/>
   <img src="outputs/screenshot3.png" alt="Screenshot 3" width="250"/>
 </div>
