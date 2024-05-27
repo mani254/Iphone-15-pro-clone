@@ -1,4 +1,4 @@
-# 📱 Iphone 15 pro Clone
+# 📱 iphone 15 pro Clone
 
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -52,7 +52,7 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/mani254/Iphone-15-pro-clone.git
+   git clone https://github.com/mani254/iphone-15-pro-clone.git
 
 2. Install Dependencies:
 
